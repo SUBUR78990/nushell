@@ -10,6 +10,8 @@ $ termux-setup-storage
 --------------------------
 $ apt-update && apt-get upgrade
 --------------------------
+$ pkg install gh
+--------------------------
 $ pkg install nushell
 --------------------------
 $ nu
