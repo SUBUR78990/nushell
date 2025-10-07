@@ -22,6 +22,6 @@ nano profile
 # save Code > ketik ctrl + x + y Enter
 # selamat Termux Nushell Anda Berhasil
 --------------------------
-[WhatsApp!](https://wa.me/+6288213415826)
+[WhatsApp Saya!](https://wa.me/+6288213415826)
 --------------------------
 # WhatsApp Untuk Bertanya Jika gagal Meng install 
