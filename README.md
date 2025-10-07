@@ -1,21 +1,23 @@
-# Author : Subur.M
-# update tanggal 17 April 2023
-# lokasi : Tangerang Banten 
+
 --------------------------
-(nushell) command termux keren
+# (nushell) command termux Style
 --------------------------
-copy paste kan di termux kalian.!!
---------------------------
-$ termux-setup-storage
---------------------------
-$ apt-update && apt-get upgrade
---------------------------
-$ pkg install gh
---------------------------
-$ pkg install nushell
---------------------------
-$ nu
---------------------------
+Salin Dan Tempel Di Termux Kalian ikuti Langkah berikut..
+```
+pkg update -y
+apt upgrade -y
+termux-setup-storage
+pkg install nushell
+nu
+```
+# ketik perintah di bawah ini
+```
+cd ../usr/etc
+nano profile
+```
+# Kalian Edit Di dalam Code ini seperti di gambar 
+
+
 [whatsapp saya!](https://wa.me/+6288213415826)
 --------------------------
 [YouTube saya!](https://youtube.com/@abash-tchannel)
