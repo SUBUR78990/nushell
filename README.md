@@ -19,6 +19,8 @@ nano profile
 # Kalian Edit Di dalam Code ini seperti di gambar 
 ![Image](https://github.com/user-attachments/assets/4ef590d7-8751-4234-933c-dd346e5569e9)
 # ketik Clear & nu Sperti di Gambar 
+# save Code > ketik ctrl + x + y Enter
+# selamat Termux Nushell Anda Berhasil
 --------------------------
-[YouTube saya!](https://youtube.com/@abash-tchannel)
+[WhatsApp!](https://wa.me/+6288213415826)
 --------------------------
