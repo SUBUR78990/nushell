@@ -2,7 +2,8 @@
 --------------------------
 # (nushell) command termux Style
 --------------------------
-Salin Dan Tempel Di Termux Kalian ikuti Langkah berikut..
+https://github.com/user-attachments/assets/2b106d18-ec52-4ea0-a5ea-3668cda9f5f1
+# Salin Dan Tempel Di Termux Kalian ikuti Langkah berikut..
 ```
 pkg update -y
 apt upgrade -y
